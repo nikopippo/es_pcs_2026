@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/es_pcs_2026/esercitazione2/build/CMakeFiles/es2_2.dir
+/home/pcsdocker/Data/es_pcs_2026/esercitazione2/build/CMakeFiles/bubblesort.dir
+/home/pcsdocker/Data/es_pcs_2026/esercitazione2/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/es_pcs_2026/esercitazione2/build/CMakeFiles/rebuild_cache.dir
