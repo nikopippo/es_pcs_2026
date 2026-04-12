@@ -45,7 +45,7 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/pcsdocker/Data/es_pcs_2026/esercitazione3/Build/install_local_manifest.txt"
+  file(WRITE "/home/pcsdocker/Data/es_pcs_2026/esercitazione3/build/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
 if(CMAKE_INSTALL_COMPONENT)
@@ -61,6 +61,6 @@ else()
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "/home/pcsdocker/Data/es_pcs_2026/esercitazione3/Build/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/home/pcsdocker/Data/es_pcs_2026/esercitazione3/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/home/pcsdocker/Data/es_pcs_2026/esercitazione3")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/pcsdocker/Data/es_pcs_2026/esercitazione3/Build")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/home/pcsdocker/Data/es_pcs_2026/esercitazione3/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)
