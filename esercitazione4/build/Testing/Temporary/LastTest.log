@@ -1,17 +1,17 @@
-Start testing: Apr 12 17:03 UTC
+Start testing: Apr 15 10:52 UTC
 ----------------------------------------------------------
 1/3 Testing: bubblesort
 1/3 Test: bubblesort
 Command: "/home/pcsdocker/Data/es_pcs_2026/esercitazione4/build/test_bubblesort"
 Directory: /home/pcsdocker/Data/es_pcs_2026/esercitazione4/build
-"bubblesort" start time: Apr 12 17:03 UTC
+"bubblesort" start time: Apr 15 10:52 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.12 sec
+Test time =   0.13 sec
 ----------------------------------------------------------
 Test Passed.
-"bubblesort" end time: Apr 12 17:03 UTC
+"bubblesort" end time: Apr 15 10:52 UTC
 "bubblesort" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -19,14 +19,14 @@ Test Passed.
 2/3 Test: insertionsort
 Command: "/home/pcsdocker/Data/es_pcs_2026/esercitazione4/build/test_insertionsort"
 Directory: /home/pcsdocker/Data/es_pcs_2026/esercitazione4/build
-"insertionsort" start time: Apr 12 17:03 UTC
+"insertionsort" start time: Apr 15 10:52 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
 Test time =   0.05 sec
 ----------------------------------------------------------
 Test Passed.
-"insertionsort" end time: Apr 12 17:03 UTC
+"insertionsort" end time: Apr 15 10:52 UTC
 "insertionsort" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -34,15 +34,15 @@ Test Passed.
 3/3 Test: selectionsort
 Command: "/home/pcsdocker/Data/es_pcs_2026/esercitazione4/build/test_selectionsort"
 Directory: /home/pcsdocker/Data/es_pcs_2026/esercitazione4/build
-"selectionsort" start time: Apr 12 17:03 UTC
+"selectionsort" start time: Apr 15 10:52 UTC
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.11 sec
+Test time =   0.09 sec
 ----------------------------------------------------------
 Test Passed.
-"selectionsort" end time: Apr 12 17:03 UTC
+"selectionsort" end time: Apr 15 10:52 UTC
 "selectionsort" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Apr 12 17:03 UTC
+End testing: Apr 15 10:52 UTC
