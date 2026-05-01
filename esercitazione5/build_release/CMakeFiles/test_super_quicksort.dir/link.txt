@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -O3 -DNDEBUG -Wl,--dependency-file=CMakeFiles/test_super_quicksort.dir/link.d CMakeFiles/test_super_quicksort.dir/test_super_quicksort.cpp.o -o test_super_quicksort

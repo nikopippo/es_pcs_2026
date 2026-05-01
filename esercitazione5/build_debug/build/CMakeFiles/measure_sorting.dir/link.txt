@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wshadow -Werror=vla -Wno-sign-compare -g -Wl,--dependency-file=CMakeFiles/measure_sorting.dir/link.d CMakeFiles/measure_sorting.dir/timecounter.cpp.o CMakeFiles/measure_sorting.dir/measure_sorting.cpp.o -o measure_sorting

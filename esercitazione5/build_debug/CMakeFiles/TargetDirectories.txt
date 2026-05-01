@@ -1,0 +1,6 @@
+/home/pcsdocker/Data/es_pcs_2026/esercitazione5/build_debug/CMakeFiles/measure_sorting.dir
+/home/pcsdocker/Data/es_pcs_2026/esercitazione5/build_debug/CMakeFiles/test_quicksort.dir
+/home/pcsdocker/Data/es_pcs_2026/esercitazione5/build_debug/CMakeFiles/test_mergesort.dir
+/home/pcsdocker/Data/es_pcs_2026/esercitazione5/build_debug/CMakeFiles/test.dir
+/home/pcsdocker/Data/es_pcs_2026/esercitazione5/build_debug/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/es_pcs_2026/esercitazione5/build_debug/CMakeFiles/rebuild_cache.dir

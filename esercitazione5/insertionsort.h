@@ -3,8 +3,8 @@
 /* insertion-sort  */
 template<typename T>
 
-std::vector<T>& insertion_sort(std::vector<T>& vec) {
-	for (int j = 1; j < vec.size(); j++) {
+std::vector<T>& insertionsort(std::vector<T>& vec) {
+	for (size_t j = 1; j < vec.size(); j++) {
 		T key = vec[j];
 		int i = j-1;
 		while (i >= 0 && vec[i] > key) {

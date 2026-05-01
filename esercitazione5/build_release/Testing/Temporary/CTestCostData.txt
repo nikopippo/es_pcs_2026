@@ -1,0 +1,4 @@
+quicksort 2 0.00719778
+mergesort 2 0.0163069
+super_quicksort 1 0.0116794
+---
