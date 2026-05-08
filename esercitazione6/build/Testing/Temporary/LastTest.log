@@ -1,0 +1,18 @@
+Start testing: May 08 10:36 UTC
+----------------------------------------------------------
+1/1 Testing: testgraph
+1/1 Test: testgraph
+Command: "/home/pcsdocker/Data/es_pcs_2026/Esercitazione6/build/test_graph"
+Directory: /home/pcsdocker/Data/es_pcs_2026/Esercitazione6/build
+"testgraph" start time: May 08 10:36 UTC
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testgraph" end time: May 08 10:36 UTC
+"testgraph" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 08 10:36 UTC
