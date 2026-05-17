@@ -1,0 +1,7 @@
+graph PathTree {
+    2 -- 1 [color=red, penwidth=2];
+    0 -- 2 [color=red, penwidth=2];
+    1 -- 3 [color=red, penwidth=2];
+    3 -- 4 [color=red, penwidth=2];
+    4 -- 5 [color=red, penwidth=2];
+}
