@@ -1,0 +1,20 @@
+Start testing: May 21 14:57 UTC
+----------------------------------------------------------
+1/1 Testing: testgrad
+1/1 Test: testgrad
+Command: "/home/pcsdocker/Data/es_pcs_2026/esercitazione10/build/test_grad_coniug"
+Directory: /home/pcsdocker/Data/es_pcs_2026/esercitazione10/build
+"testgrad" start time: May 21 14:57 UTC
+Output:
+----------------------------------------------------------
+Errore = 5.43896e-16
+TEST SUPERATO
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"testgrad" end time: May 21 14:57 UTC
+"testgrad" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 21 14:57 UTC
