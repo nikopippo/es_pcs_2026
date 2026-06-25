@@ -1,10 +1,10 @@
-Start testing: May 17 10:08 UTC
+Start testing: May 27 07:17 UTC
 ----------------------------------------------------------
 1/2 Testing: testgraphvisit
 1/2 Test: testgraphvisit
 Command: "/home/pcsdocker/Data/es_pcs_2026/esercitazione9/build/test_graph_visit"
 Directory: /home/pcsdocker/Data/es_pcs_2026/esercitazione9/build
-"testgraphvisit" start time: May 17 10:08 UTC
+"testgraphvisit" start time: May 27 07:17 UTC
 Output:
 ----------------------------------------------------------
 0 -> 1
@@ -13,10 +13,10 @@ Output:
 3 -> 4
 4 -> 5
 <end of output>
-Test time =   0.02 sec
+Test time =   0.05 sec
 ----------------------------------------------------------
 Test Passed.
-"testgraphvisit" end time: May 17 10:08 UTC
+"testgraphvisit" end time: May 27 07:17 UTC
 "testgraphvisit" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -24,7 +24,7 @@ Test Passed.
 2/2 Test: test_dijkstra
 Command: "/home/pcsdocker/Data/es_pcs_2026/esercitazione9/build/test_dijkstra"
 Directory: /home/pcsdocker/Data/es_pcs_2026/esercitazione9/build
-"test_dijkstra" start time: May 17 10:08 UTC
+"test_dijkstra" start time: May 27 07:17 UTC
 Output:
 ----------------------------------------------------------
 Distanze dal nodo 0:
@@ -35,11 +35,11 @@ Distanze dal nodo 0:
   Nodo 4: 10
   Nodo 5: 13
 <end of output>
-Test time =   0.02 sec
+Test time =   0.04 sec
 ----------------------------------------------------------
 Test Passed.
-"test_dijkstra" end time: May 17 10:08 UTC
+"test_dijkstra" end time: May 27 07:17 UTC
 "test_dijkstra" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: May 17 10:08 UTC
+End testing: May 27 07:17 UTC

@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/es_pcs_2026/progetto_finale/build/CMakeFiles/main.dir
+/home/pcsdocker/Data/es_pcs_2026/progetto_finale/build/CMakeFiles/test.dir
+/home/pcsdocker/Data/es_pcs_2026/progetto_finale/build/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/es_pcs_2026/progetto_finale/build/CMakeFiles/rebuild_cache.dir
